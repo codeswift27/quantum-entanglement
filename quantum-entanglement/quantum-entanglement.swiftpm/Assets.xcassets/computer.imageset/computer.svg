@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="414" height="395.426" viewBox="0 0 414 395.426">
+  <g id="Group_21" data-name="Group 21" transform="translate(-800 -247)">
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="414" height="265" rx="16" transform="translate(800 247)" fill="#904ec1"/>
+    <path id="Path_42" data-name="Path 42" d="M16,0H398a16,16,0,0,1,16,16s-4.454,35.375-6.474,53.485c-2.79,25.029-6.791,38.536-38.87,67.773-54.649,49.809-130.575,25.269-202.791,57.2s-58.7,59.8-86.073,70.537H16A16,16,0,0,1,0,249V16A16,16,0,0,1,16,0Z" transform="translate(800 247)" fill="#d13c5e"/>
+    <path id="Path_41" data-name="Path 41" d="M16,0H300.229c8.837,0-11.809,31.186-67.521,63.072S129.034,78.73,77.378,127.545,16,265,16,265A16,16,0,0,1,0,249V16A16,16,0,0,1,16,0Z" transform="translate(800 247)" fill="#ef9bd4"/>
+    <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(800 247)" fill="none" stroke="#000" stroke-width="10">
+      <rect width="414" height="265" rx="16" stroke="none"/>
+      <rect x="5" y="5" width="404" height="255" rx="11" fill="none"/>
+    </g>
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="101" height="38" transform="translate(957 512)"/>
+    <path id="Path_45" data-name="Path 45" d="M0,0H187V13H0Z" transform="translate(914 550)"/>
+    <rect id="Rectangle_483" data-name="Rectangle 483" width="219" height="168" rx="8" transform="translate(898 296)" fill="#fff"/>
+    <path id="Path_48" data-name="Path 48" d="M1183.456,7066.267c17.9.015,88.587-2.271,89.255-3.87s-29.859-20.554-57.462-21.621-46.706,8.1-53.2,15.176S1165.556,7066.251,1183.456,7066.267Z" transform="translate(-337.93 -6423.841)" fill="#fff"/>
+    <path id="Icon_awesome-mouse-pointer" data-name="Icon awesome-mouse-pointer" d="M21.248,23.142H13.789L17.714,32.7a1.306,1.306,0,0,1-.664,1.687L13.593,35.9a1.244,1.244,0,0,1-1.641-.683l-3.73-9.08L2.129,32.4A1.244,1.244,0,0,1,0,31.5V1.287a1.244,1.244,0,0,1,2.129-.9l20,20.569A1.289,1.289,0,0,1,21.248,23.142Z" transform="translate(1089.75 412)"/>
+  </g>
+</svg>

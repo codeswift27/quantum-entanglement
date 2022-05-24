@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="147.684" height="101.533" viewBox="0 0 147.684 101.533">
+  <g id="Group_46" data-name="Group 46" transform="translate(-844 -293.718)">
+    <path id="cloud" d="M114.226,107.158H39.231A40.737,40.737,0,0,1,11.679,96.944,35.6,35.6,0,0,1,0,70.237c0-10.551,3.86-19.65,11.171-26.312a42.375,42.375,0,0,1,19.954-9.768A4.615,4.615,0,0,0,34.4,31.519,45.069,45.069,0,0,1,46.533,15.364,42.047,42.047,0,0,1,73.842,5.625,44.3,44.3,0,0,1,104.745,18a50.646,50.646,0,0,1,14.186,26.538,4.615,4.615,0,0,0,3.5,3.573c13.144,2.925,25.258,12.447,25.258,29.053,0,9.632-3.532,17.533-10.215,22.854C131.6,104.685,123.563,107.158,114.226,107.158Z" transform="translate(844 288.093)" fill="rgba(255,255,255,0.4)"/>
+    <path id="Path_32" data-name="Path 32" d="M1454.779,5839.957l2.293-17.939,12.348,8.322" transform="translate(-570.682 -5496.8)" fill="none" stroke="#fff" stroke-width="1"/>
+    <path id="Path_33" data-name="Path 33" d="M1469.42,5839.957l-2.293-17.939-12.348,8.322" transform="translate(-517.833 -5496.8)" fill="none" stroke="#fff" stroke-width="1"/>
+    <path id="Path_34" data-name="Path 34" d="M1471.4,5864.482s1.762,2.813,3.594,2.813,3.324-2.813,3.324-2.813,1.135,2.668,3.243,2.813,2.988-2.813,2.988-2.813" transform="translate(-560.401 -5503.549)" fill="none" stroke="#fff" stroke-width="1"/>
+    <circle id="Ellipse_40" data-name="Ellipse 40" cx="3.523" cy="3.523" r="3.523" transform="translate(928 342.819)" fill="#fff"/>
+    <circle id="Ellipse_60" data-name="Ellipse 60" cx="3.523" cy="3.523" r="3.523" transform="translate(901 342.819)" fill="#fff"/>
+  </g>
+</svg>
